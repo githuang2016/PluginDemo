@@ -1,0 +1,7 @@
+C:\Demo\PluginDemo\PluginDemo\Plugin1\bin\Debug\Plugin1.dll
+C:\Demo\PluginDemo\PluginDemo\Plugin1\bin\Debug\Plugin1.pdb
+C:\Demo\PluginDemo\PluginDemo\Plugin1\bin\Debug\ReflectionDemo.exe
+C:\Demo\PluginDemo\PluginDemo\Plugin1\bin\Debug\ReflectionDemo.pdb
+C:\Demo\PluginDemo\PluginDemo\Plugin1\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo\PluginDemo\PluginDemo\Plugin1\obj\Debug\Plugin1.dll
+C:\Demo\PluginDemo\PluginDemo\Plugin1\obj\Debug\Plugin1.pdb
